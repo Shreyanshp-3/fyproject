@@ -1,0 +1,2 @@
+running the symptom server
+python manage.py runserver
